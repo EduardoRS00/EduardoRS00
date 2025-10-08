@@ -15,7 +15,7 @@
 ---
 
 ## 📊 Proyectos destacados
-- 📌 **[ProBook](https://github.com/EduardoRS00/ProBook)** – Aplicación web para la gestión de reservas de restaurantes  
+- 📌 **[ProBook](https://github.com/EduardoRS00/Proyecto_final)** – Aplicación web para la gestión de reservas de restaurantes  
 - 📌 **[Funciones y Arrays](https://github.com/EduardoRS00/funciones)** – Prácticas en JavaScript  
 - 📌 **[Eventos y DOM](https://github.com/EduardoRS00/eventos-y-DOM)** – Manejo del DOM con JavaScript  
 
