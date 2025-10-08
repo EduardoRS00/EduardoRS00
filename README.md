@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Eduardo Rodríguez Serrano!
 
-💻 **Desarrollador Web en formación** especializado en **Laravel, Angular y JavaScript**.  
+💻 **Desarrollador Web** especializado en **Laravel, Angular y JavaScript**.  
 🚀 Apasionado por crear aplicaciones **útiles, rápidas y bien estructuradas**.  
 📚 Finalizando el ciclo de **Desarrollo de Aplicaciones Web (DAW)**.  
 🌍 Buscando colaborar en proyectos reales y aportar soluciones prácticas.  
