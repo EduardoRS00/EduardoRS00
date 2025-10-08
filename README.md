@@ -30,4 +30,4 @@
 
 ## 📫 Conecta conmigo
 - 💼 [LinkedIn]([https://www.linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/eduardo-rodr%C3%ADguezserrano/))  
-- ✉️ **eduardo.rodriguezserrano@gmail.com**
+- ✉️ **eduardo.rodriguezserrano.ers@gmail.com**
