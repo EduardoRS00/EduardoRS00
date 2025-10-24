@@ -2,7 +2,7 @@
 
 💻 **Desarrollador Web** especializado en **Laravel y Angular**.  
 🚀 Apasionado por crear aplicaciones **útiles, rápidas y bien estructuradas**.  
-📚 Finalizando el ciclo de **Desarrollo de Aplicaciones Web (DAW)**.  
+📚 He finalizado el ciclo de **Desarrollo de Aplicaciones Web (DAW)**.  
 🌍 Buscando colaborar en proyectos reales y aportar soluciones prácticas.  
 
 ---
